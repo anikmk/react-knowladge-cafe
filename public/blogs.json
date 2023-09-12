@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/MkmK9Dv/blogpost-1.jpg",
+      "title": "Fake Book 1",
+      "author": "Miskat Afrin Mim",
+      "author_img": "https://i.ibb.co/5FLy1rc/MIM.jpg",
+      "postated_date": "2023-09-12",
+      "reading_time": "30",
+      "hashtags": ["#fiction", "#adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/CPTN7R3/blogpost-2.jpg",
+      "title": "Fake Book 2",
+      "author": "Jhimi Rani Chanda",
+      "author_img": "https://i.ibb.co/Qv9S4dt/jhimi.jpg",
+      "postated_date": "2023-09-11",
+      "reading_time": "45",
+      "hashtags": ["#mystery", "#thriller"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/4ZL99zv/blogpost-3.jpg",
+      "title": "Fake Book 3",
+      "author": "Anik Mk",
+      "author_img": "https://i.ibb.co/WP4X2tY/anik.jpg",
+      "postated_date": "2023-09-10",
+      "reading_time": "20",
+      "hashtags": ["#romance", "#drama"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/KWHrTQT/blogpost-4.jpg",
+      "title": "Fake Book 4",
+      "author": "Miftahul islam",
+      "author_img": "https://i.ibb.co/RgVDMw8/mifta01.jpg",
+      "postated_date": "2023-09-09",
+      "reading_time": "35",
+      "hashtags": ["#sciencefiction", "#fantasy"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/MNGMRgq/blogpost-5.jpg",
+      "title": "Fake Book 5",
+      "author": "MD.Monnan",
+      "author_img": "https://i.ibb.co/d2RmyXq/monnan.jpg",
+      "postated_date": "2023-09-08",
+      "reading_time": "25",
+      "hashtags": ["#comedy", "#humor"]
+    }
+  ]
+  
